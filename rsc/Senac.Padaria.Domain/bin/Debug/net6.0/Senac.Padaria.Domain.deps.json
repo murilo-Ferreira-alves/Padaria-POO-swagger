@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Senac.Padaria.Domain/1.0.0": {
+        "dependencies": {
+          "Senac.Padaria.Core": "1.0.0"
+        },
+        "runtime": {
+          "Senac.Padaria.Domain.dll": {}
+        }
+      },
+      "Senac.Padaria.Core/1.0.0": {
+        "runtime": {
+          "Senac.Padaria.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Senac.Padaria.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Senac.Padaria.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@Senac.Padaria.API_HostAddress = http://localhost:5091
+
+GET {{Senac.Padaria.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

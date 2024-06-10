@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\bin\Debug\net6.0\Senac.Padaria.Application.deps.json
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\bin\Debug\net6.0\Senac.Padaria.Application.dll
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\bin\Debug\net6.0\Senac.Padaria.Application.pdb
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\obj\Debug\net6.0\Senac.Padaria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\obj\Debug\net6.0\Senac.Padaria.Application.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\obj\Debug\net6.0\Senac.Padaria.Application.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\obj\Debug\net6.0\Senac.Padaria.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\obj\Debug\net6.0\Senac.Padaria.Application.dll
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\obj\Debug\net6.0\refint\Senac.Padaria.Application.dll
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\obj\Debug\net6.0\Senac.Padaria.Application.pdb
+C:\Users\Aluno\Documents\Lucas\Senac.Padaria\rsc\Senac.Padaria.Application\obj\Debug\net6.0\ref\Senac.Padaria.Application.dll

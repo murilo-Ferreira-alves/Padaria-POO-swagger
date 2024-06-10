@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|c:\\users\\marisa\\downloads\\senac.padaria\\senac.padaria\\senac.padaria.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|solutionrelative:senac.padaria.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|c:\\users\\marisa\\downloads\\senac.padaria\\senac.padaria\\senac.padaria.api\\configuracao\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|solutionrelative:senac.padaria.api\\configuracao\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|c:\\users\\marisa\\downloads\\senac.padaria\\senac.padaria\\senac.padaria.api\\configuracao\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|solutionrelative:senac.padaria.api\\configuracao\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|c:\\users\\marisa\\downloads\\senac.padaria\\senac.padaria\\senac.padaria.api\\configuracao\\configurationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|solutionrelative:senac.padaria.api\\configuracao\\configurationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|c:\\users\\marisa\\downloads\\senac.padaria\\senac.padaria\\senac.padaria.api\\controllers\\v1\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|solutionrelative:senac.padaria.api\\controllers\\v1\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|c:\\users\\marisa\\downloads\\senac.padaria\\senac.padaria\\senac.padaria.api\\controllers\\v1\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|solutionrelative:senac.padaria.api\\controllers\\v1\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|c:\\users\\marisa\\downloads\\senac.padaria\\senac.padaria\\senac.padaria.api\\controllers\\v1\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|solutionrelative:senac.padaria.api\\controllers\\v1\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|c:\\users\\marisa\\downloads\\senac.padaria\\senac.padaria\\senac.padaria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|solutionrelative:senac.padaria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|c:\\users\\marisa\\downloads\\senac.padaria\\senac.padaria\\senac.padaria.api\\configuracao\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938C843-D106-40A4-8F48-EF250DFAE734}|Senac.Padaria.API\\Senac.Padaria.API.csproj|solutionrelative:senac.padaria.api\\configuracao\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Uow\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IDocumentosGeraisAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain.Shared\\Transacao\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Context\\PadariaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IVendaAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IProdutoAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\VendaAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\ProdutoAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IFuncionarioAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\FuncionarioAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IFuncionarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Repositories\\VendaRepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aluno\\documents\\lucas\\senac.padaria\\rsc\\senac.padaria.domain\\entidades\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IVendaRepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\ViewModel\\FuncionarioViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\BaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IItensVendaAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IEnderecoAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\AutoMapper\\ViewModelToDomainMappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Program.cs",
+              "RelativeDocumentMoniker": "Senac.Padaria.API\\Program.cs",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Program.cs",
+              "RelativeToolTip": "Senac.Padaria.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.086Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Configuracao\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "Senac.Padaria.API\\Configuracao\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Configuracao\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "Senac.Padaria.API\\Configuracao\\DependencyInjectionConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Configuracao\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "Senac.Padaria.API\\Configuracao\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Configuracao\\SwaggerConfig.cs",
+              "RelativeToolTip": "Senac.Padaria.API\\Configuracao\\SwaggerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendaController.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Controllers\\v1\\VendaController.cs",
+              "RelativeDocumentMoniker": "Senac.Padaria.API\\Controllers\\v1\\VendaController.cs",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Controllers\\v1\\VendaController.cs",
+              "RelativeToolTip": "Senac.Padaria.API\\Controllers\\v1\\VendaController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Uow\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Uow\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Uow\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Uow\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Configuracao\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "Senac.Padaria.API\\Configuracao\\ApiConfig.cs",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Configuracao\\ApiConfig.cs",
+              "RelativeToolTip": "Senac.Padaria.API\\Configuracao\\ApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Controllers\\v1\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Senac.Padaria.API\\Controllers\\v1\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Controllers\\v1\\FuncionarioController.cs",
+              "RelativeToolTip": "Senac.Padaria.API\\Controllers\\v1\\FuncionarioController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Senac.Padaria.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\appsettings.json",
+              "RelativeToolTip": "Senac.Padaria.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T20:12:34.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigurationServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Configuracao\\ConfigurationServicesExtensions.cs",
+              "RelativeDocumentMoniker": "Senac.Padaria.API\\Configuracao\\ConfigurationServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Configuracao\\ConfigurationServicesExtensions.cs",
+              "RelativeToolTip": "Senac.Padaria.API\\Configuracao\\ConfigurationServicesExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Controllers\\v1\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Senac.Padaria.API\\Controllers\\v1\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\Senac.Padaria.API\\Controllers\\v1\\ProdutoController.cs",
+              "RelativeToolTip": "Senac.Padaria.API\\Controllers\\v1\\ProdutoController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDocumentosGeraisAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IDocumentosGeraisAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IDocumentosGeraisAppService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IDocumentosGeraisAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IDocumentosGeraisAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain.Shared\\Transacao\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain.Shared\\Transacao\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain.Shared\\Transacao\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain.Shared\\Transacao\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PadariaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Context\\PadariaDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Context\\PadariaDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Context\\PadariaDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Context\\PadariaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:20:10.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVendaAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IVendaAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IVendaAppService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IVendaAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IVendaAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProdutoAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IProdutoAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IProdutoAppService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IProdutoAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IProdutoAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VendaAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\VendaAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\VendaAppService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\VendaAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\VendaAppService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBJwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProdutoAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\ProdutoAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\ProdutoAppService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\ProdutoAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\ProdutoAppService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFuncionarioAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IFuncionarioAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IFuncionarioAppService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IFuncionarioAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IFuncionarioAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FuncionarioAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\FuncionarioAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\FuncionarioAppService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\FuncionarioAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\FuncionarioAppService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAABQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IFuncionarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IFuncionarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IFuncionarioRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IFuncionarioRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IFuncionarioRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBJwBUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VendaRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Repositories\\VendaRepositories.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Repositories\\VendaRepositories.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Repositories\\VendaRepositories.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Infra.Data\\Repositories\\VendaRepositories.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIBJwBQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Entidades\\Venda.cs",
+              "RelativeDocumentMoniker": "rsc\\Senac.Padaria.Domain\\Entidades\\Venda.cs",
+              "ToolTip": "C:\\Users\\marisa\\Downloads\\Senac.Padaria\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Entidades\\Venda.cs",
+              "RelativeToolTip": "rsc\\Senac.Padaria.Domain\\Entidades\\Venda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IVendaRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IVendaRepositories.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IVendaRepositories.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IVendaRepositories.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Domain\\Interfaces\\IVendaRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FuncionarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\ViewModel\\FuncionarioViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\ViewModel\\FuncionarioViewModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\ViewModel\\FuncionarioViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\ViewModel\\FuncionarioViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\BaseService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\BaseService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Servicos\\BaseService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IItensVendaAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IItensVendaAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IItensVendaAppService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IItensVendaAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IItensVendaAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEnderecoAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IEnderecoAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IEnderecoAppService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IEnderecoAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\Interfaces\\IEnderecoAppService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ViewModelToDomainMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\AutoMapper\\ViewModelToDomainMappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\AutoMapper\\ViewModelToDomainMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\AutoMapper\\ViewModelToDomainMappingProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Lucas\\Senac.Padaria\\rsc\\Senac.Padaria.Aplicantion\\AutoMapper\\ViewModelToDomainMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:12:34.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

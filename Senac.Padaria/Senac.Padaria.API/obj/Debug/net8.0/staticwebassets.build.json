@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "emvUdRCeQgX7XGa0ttwx8Y3UKRytDHqpvLAwwUXDTSA=",
+  "Source": "Senac.Padaria.API",
+  "BasePath": "_content/Senac.Padaria.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

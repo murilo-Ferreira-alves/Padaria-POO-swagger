@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Serviços\**" />
+    <EmbeddedResource Remove="Serviços\**" />
+    <None Remove="Serviços\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MediatR" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Senac.Padaria.Core\Senac.Padaria.Core.csproj" />
+    <ProjectReference Include="..\Senac.Padaria.Domain.Shared\Senac.Padaria.Domain.Shared.csproj" />
+    <ProjectReference Include="..\Senac.Padaria.Domain\Senac.Padaria.Domain.csproj" />
+    <ProjectReference Include="..\Senac.Padaria.Infra.CrossCutting.IoC\Senac.Padaria.Infra.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\Senac.Padaria.Infra.Data\Senac.Padaria.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
